@@ -1,0 +1,32 @@
+[
+  {
+    "sev": "LOW",
+    "msg": "Slow LOGIN 660ms on CARDS",
+    "id": "EV100116",
+    "ts": 1759103985.0
+  },
+  {
+    "sev": "MED",
+    "msg": "TRANSFER flagged for review on CARDS",
+    "id": "EV100112",
+    "ts": 1759103973.0
+  },
+  {
+    "sev": "MED",
+    "msg": "LOAN_APP flagged for review on ATM",
+    "id": "EV100102",
+    "ts": 1759103943.0
+  },
+  {
+    "sev": "MED",
+    "msg": "TRANSFER flagged for review on BRANCH",
+    "id": "EV100081",
+    "ts": 1759103880.0
+  },
+  {
+    "sev": "MED",
+    "msg": "CARD_AUTH flagged for review on CARDS",
+    "id": "EV100071",
+    "ts": 1759103850.0
+  }
+]

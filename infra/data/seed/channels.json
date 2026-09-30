@@ -1,0 +1,44 @@
+[
+  {
+    "channel": "SWIFT",
+    "count": 22,
+    "fail_pct": 0.0,
+    "avg_ms": 120
+  },
+  {
+    "channel": "WEB",
+    "count": 21,
+    "fail_pct": 4.8,
+    "avg_ms": 119
+  },
+  {
+    "channel": "MOBILE",
+    "count": 19,
+    "fail_pct": 0.0,
+    "avg_ms": 96
+  },
+  {
+    "channel": "BRANCH",
+    "count": 18,
+    "fail_pct": 11.1,
+    "avg_ms": 95
+  },
+  {
+    "channel": "ACH",
+    "count": 15,
+    "fail_pct": 0.0,
+    "avg_ms": 88
+  },
+  {
+    "channel": "ATM",
+    "count": 14,
+    "fail_pct": 0.0,
+    "avg_ms": 108
+  },
+  {
+    "channel": "CARDS",
+    "count": 12,
+    "fail_pct": 8.3,
+    "avg_ms": 132
+  }
+]

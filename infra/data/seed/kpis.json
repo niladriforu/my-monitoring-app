@@ -1,0 +1,9 @@
+{
+  "volume": 121,
+  "value_usd": 38773.37,
+  "success_rate": 96.69,
+  "p50_ms": 89,
+  "p95_ms": 214,
+  "pending": 5,
+  "in_review": 6
+}

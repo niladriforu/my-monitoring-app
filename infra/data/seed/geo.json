@@ -1,0 +1,501 @@
+{
+  "countries": [
+    {
+      "country": "Argentina",
+      "volume": 6,
+      "value_usd": 11135.99,
+      "cities": [
+        {
+          "city": "C\u00f3rdoba",
+          "lat": -31.42,
+          "lon": -64.18,
+          "volume": 3,
+          "value_usd": 8706.36
+        },
+        {
+          "city": "Buenos Aires",
+          "lat": -34.6,
+          "lon": -58.38,
+          "volume": 3,
+          "value_usd": 2429.63
+        }
+      ]
+    },
+    {
+      "country": "Mexico",
+      "volume": 6,
+      "value_usd": 7922.48,
+      "cities": [
+        {
+          "city": "Mexico City",
+          "lat": 19.43,
+          "lon": -99.13,
+          "volume": 3,
+          "value_usd": 6849.62
+        },
+        {
+          "city": "Monterrey",
+          "lat": 25.67,
+          "lon": -100.31,
+          "volume": 3,
+          "value_usd": 1072.86
+        }
+      ]
+    },
+    {
+      "country": "India",
+      "volume": 4,
+      "value_usd": 7708.95,
+      "cities": [
+        {
+          "city": "Mumbai",
+          "lat": 19.08,
+          "lon": 72.88,
+          "volume": 2,
+          "value_usd": 4620.77
+        },
+        {
+          "city": "Bengaluru",
+          "lat": 12.97,
+          "lon": 77.59,
+          "volume": 2,
+          "value_usd": 3088.18
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "volume": 6,
+      "value_usd": 7659.9,
+      "cities": [
+        {
+          "city": "Vancouver",
+          "lat": 49.28,
+          "lon": -123.12,
+          "volume": 3,
+          "value_usd": 6165.11
+        },
+        {
+          "city": "Toronto",
+          "lat": 43.65,
+          "lon": -79.38,
+          "volume": 3,
+          "value_usd": 1494.79
+        }
+      ]
+    },
+    {
+      "country": "Spain",
+      "volume": 6,
+      "value_usd": 7639.29,
+      "cities": [
+        {
+          "city": "Barcelona",
+          "lat": 41.39,
+          "lon": 2.17,
+          "volume": 3,
+          "value_usd": 6107.56
+        },
+        {
+          "city": "Madrid",
+          "lat": 40.42,
+          "lon": -3.7,
+          "volume": 3,
+          "value_usd": 1531.73
+        }
+      ]
+    },
+    {
+      "country": "United States",
+      "volume": 9,
+      "value_usd": 7354.43,
+      "cities": [
+        {
+          "city": "New York",
+          "lat": 40.71,
+          "lon": -74.01,
+          "volume": 3,
+          "value_usd": 3437.08
+        },
+        {
+          "city": "Chicago",
+          "lat": 41.88,
+          "lon": -87.63,
+          "volume": 3,
+          "value_usd": 2288.76
+        },
+        {
+          "city": "San Francisco",
+          "lat": 37.77,
+          "lon": -122.42,
+          "volume": 3,
+          "value_usd": 1628.59
+        }
+      ]
+    },
+    {
+      "country": "United Kingdom",
+      "volume": 6,
+      "value_usd": 6837.57,
+      "cities": [
+        {
+          "city": "Manchester",
+          "lat": 53.48,
+          "lon": -2.24,
+          "volume": 3,
+          "value_usd": 6108.06
+        },
+        {
+          "city": "London",
+          "lat": 51.51,
+          "lon": -0.13,
+          "volume": 3,
+          "value_usd": 729.51
+        }
+      ]
+    },
+    {
+      "country": "South Africa",
+      "volume": 4,
+      "value_usd": 6568.76,
+      "cities": [
+        {
+          "city": "Johannesburg",
+          "lat": -26.2,
+          "lon": 28.05,
+          "volume": 2,
+          "value_usd": 4866.26
+        },
+        {
+          "city": "Cape Town",
+          "lat": -33.92,
+          "lon": 18.42,
+          "volume": 2,
+          "value_usd": 1702.5
+        }
+      ]
+    },
+    {
+      "country": "Brazil",
+      "volume": 6,
+      "value_usd": 5526.29,
+      "cities": [
+        {
+          "city": "Rio de Janeiro",
+          "lat": -22.91,
+          "lon": -43.17,
+          "volume": 3,
+          "value_usd": 4639.34
+        },
+        {
+          "city": "S\u00e3o Paulo",
+          "lat": -23.55,
+          "lon": -46.63,
+          "volume": 3,
+          "value_usd": 886.95
+        }
+      ]
+    },
+    {
+      "country": "Netherlands",
+      "volume": 6,
+      "value_usd": 4901.91,
+      "cities": [
+        {
+          "city": "Amsterdam",
+          "lat": 52.37,
+          "lon": 4.9,
+          "volume": 3,
+          "value_usd": 2543.92
+        },
+        {
+          "city": "Rotterdam",
+          "lat": 51.92,
+          "lon": 4.48,
+          "volume": 3,
+          "value_usd": 2357.99
+        }
+      ]
+    },
+    {
+      "country": "France",
+      "volume": 6,
+      "value_usd": 4701.78,
+      "cities": [
+        {
+          "city": "Paris",
+          "lat": 48.86,
+          "lon": 2.35,
+          "volume": 3,
+          "value_usd": 2798.78
+        },
+        {
+          "city": "Lyon",
+          "lat": 45.76,
+          "lon": 4.84,
+          "volume": 3,
+          "value_usd": 1903.0
+        }
+      ]
+    },
+    {
+      "country": "Germany",
+      "volume": 6,
+      "value_usd": 4173.01,
+      "cities": [
+        {
+          "city": "Munich",
+          "lat": 48.14,
+          "lon": 11.58,
+          "volume": 3,
+          "value_usd": 3501.77
+        },
+        {
+          "city": "Frankfurt",
+          "lat": 50.11,
+          "lon": 8.68,
+          "volume": 3,
+          "value_usd": 671.24
+        }
+      ]
+    },
+    {
+      "country": "Switzerland",
+      "volume": 6,
+      "value_usd": 4162.88,
+      "cities": [
+        {
+          "city": "Zurich",
+          "lat": 47.38,
+          "lon": 8.54,
+          "volume": 3,
+          "value_usd": 3621.33
+        },
+        {
+          "city": "Geneva",
+          "lat": 46.2,
+          "lon": 6.14,
+          "volume": 3,
+          "value_usd": 541.55
+        }
+      ]
+    },
+    {
+      "country": "Indonesia",
+      "volume": 4,
+      "value_usd": 3613.6,
+      "cities": [
+        {
+          "city": "Jakarta",
+          "lat": -6.21,
+          "lon": 106.85,
+          "volume": 2,
+          "value_usd": 2396.95
+        },
+        {
+          "city": "Surabaya",
+          "lat": -7.25,
+          "lon": 112.75,
+          "volume": 2,
+          "value_usd": 1216.65
+        }
+      ]
+    },
+    {
+      "country": "Italy",
+      "volume": 6,
+      "value_usd": 3404.17,
+      "cities": [
+        {
+          "city": "Rome",
+          "lat": 41.9,
+          "lon": 12.5,
+          "volume": 3,
+          "value_usd": 3202.63
+        },
+        {
+          "city": "Milan",
+          "lat": 45.46,
+          "lon": 9.19,
+          "volume": 3,
+          "value_usd": 201.54
+        }
+      ]
+    },
+    {
+      "country": "China",
+      "volume": 4,
+      "value_usd": 3378.94,
+      "cities": [
+        {
+          "city": "Shanghai",
+          "lat": 31.23,
+          "lon": 121.47,
+          "volume": 2,
+          "value_usd": 2908.34
+        },
+        {
+          "city": "Beijing",
+          "lat": 39.9,
+          "lon": 116.41,
+          "volume": 2,
+          "value_usd": 470.6
+        }
+      ]
+    },
+    {
+      "country": "Kenya",
+      "volume": 5,
+      "value_usd": 2958.98,
+      "cities": [
+        {
+          "city": "Nairobi",
+          "lat": -1.29,
+          "lon": 36.82,
+          "volume": 3,
+          "value_usd": 1776.05
+        },
+        {
+          "city": "Mombasa",
+          "lat": -4.04,
+          "lon": 39.67,
+          "volume": 2,
+          "value_usd": 1182.93
+        }
+      ]
+    },
+    {
+      "country": "Australia",
+      "volume": 4,
+      "value_usd": 2777.1,
+      "cities": [
+        {
+          "city": "Melbourne",
+          "lat": -37.81,
+          "lon": 144.96,
+          "volume": 2,
+          "value_usd": 2679.27
+        },
+        {
+          "city": "Sydney",
+          "lat": -33.87,
+          "lon": 151.21,
+          "volume": 2,
+          "value_usd": 97.83
+        }
+      ]
+    },
+    {
+      "country": "United Arab Emirates",
+      "volume": 5,
+      "value_usd": 2416.86,
+      "cities": [
+        {
+          "city": "Dubai",
+          "lat": 25.2,
+          "lon": 55.27,
+          "volume": 3,
+          "value_usd": 2115.02
+        },
+        {
+          "city": "Abu Dhabi",
+          "lat": 24.45,
+          "lon": 54.38,
+          "volume": 2,
+          "value_usd": 301.84
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "volume": 4,
+      "value_usd": 1989.78,
+      "cities": [
+        {
+          "city": "Osaka",
+          "lat": 34.69,
+          "lon": 135.5,
+          "volume": 2,
+          "value_usd": 1665.09
+        },
+        {
+          "city": "Tokyo",
+          "lat": 35.68,
+          "lon": 139.69,
+          "volume": 2,
+          "value_usd": 324.69
+        }
+      ]
+    },
+    {
+      "country": "Singapore",
+      "volume": 2,
+      "value_usd": 1324.23,
+      "cities": [
+        {
+          "city": "Singapore",
+          "lat": 1.35,
+          "lon": 103.82,
+          "volume": 2,
+          "value_usd": 1324.23
+        }
+      ]
+    },
+    {
+      "country": "Nigeria",
+      "volume": 4,
+      "value_usd": 1097.19,
+      "cities": [
+        {
+          "city": "Lagos",
+          "lat": 6.52,
+          "lon": 3.38,
+          "volume": 2,
+          "value_usd": 613.6
+        },
+        {
+          "city": "Abuja",
+          "lat": 9.06,
+          "lon": 7.49,
+          "volume": 2,
+          "value_usd": 483.59
+        }
+      ]
+    },
+    {
+      "country": "South Korea",
+      "volume": 4,
+      "value_usd": 599.98,
+      "cities": [
+        {
+          "city": "Busan",
+          "lat": 35.18,
+          "lon": 129.08,
+          "volume": 2,
+          "value_usd": 300.08
+        },
+        {
+          "city": "Seoul",
+          "lat": 37.57,
+          "lon": 126.98,
+          "volume": 2,
+          "value_usd": 299.9
+        }
+      ]
+    },
+    {
+      "country": "Hong Kong",
+      "volume": 2,
+      "value_usd": 505.69,
+      "cities": [
+        {
+          "city": "Hong Kong",
+          "lat": 22.32,
+          "lon": 114.17,
+          "volume": 2,
+          "value_usd": 505.69
+        }
+      ]
+    }
+  ]
+}

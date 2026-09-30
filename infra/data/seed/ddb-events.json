@@ -1,0 +1,5326 @@
+{
+  "EV100121": {
+    "id": {
+      "S": "EV100121"
+    },
+    "ts": {
+      "N": "1759103999"
+    },
+    "type": {
+      "S": "FX_TRADE"
+    },
+    "channel": {
+      "S": "SWIFT"
+    },
+    "account": {
+      "S": "********6231"
+    },
+    "amount": {
+      "N": "181.84"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "181.84"
+    },
+    "city": {
+      "S": "Nairobi"
+    },
+    "country": {
+      "S": "Kenya"
+    },
+    "lat": {
+      "N": "-1.29"
+    },
+    "lon": {
+      "N": "36.82"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "95"
+    }
+  },
+  "EV100120": {
+    "id": {
+      "S": "EV100120"
+    },
+    "ts": {
+      "N": "1759103997"
+    },
+    "type": {
+      "S": "CARD_AUTH"
+    },
+    "channel": {
+      "S": "ATM"
+    },
+    "account": {
+      "S": "********7854"
+    },
+    "amount": {
+      "N": "392.62"
+    },
+    "currency": {
+      "S": "EUR"
+    },
+    "value_usd": {
+      "N": "424.03"
+    },
+    "city": {
+      "S": "Dubai"
+    },
+    "country": {
+      "S": "United Arab Emirates"
+    },
+    "lat": {
+      "N": "25.2"
+    },
+    "lon": {
+      "N": "55.27"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "39"
+    }
+  },
+  "EV100119": {
+    "id": {
+      "S": "EV100119"
+    },
+    "ts": {
+      "N": "1759103994"
+    },
+    "type": {
+      "S": "KYC_CHECK"
+    },
+    "channel": {
+      "S": "MOBILE"
+    },
+    "account": {
+      "S": "********7717"
+    },
+    "amount": {
+      "N": "1961.21"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "1961.21"
+    },
+    "city": {
+      "S": "Rome"
+    },
+    "country": {
+      "S": "Italy"
+    },
+    "lat": {
+      "N": "41.9"
+    },
+    "lon": {
+      "N": "12.5"
+    },
+    "status": {
+      "S": "PENDING"
+    },
+    "latency_ms": {
+      "N": "122"
+    }
+  },
+  "EV100118": {
+    "id": {
+      "S": "EV100118"
+    },
+    "ts": {
+      "N": "1759103991"
+    },
+    "type": {
+      "S": "TRANSFER"
+    },
+    "channel": {
+      "S": "BRANCH"
+    },
+    "account": {
+      "S": "********0331"
+    },
+    "amount": {
+      "N": "12681"
+    },
+    "currency": {
+      "S": "JPY"
+    },
+    "value_usd": {
+      "N": "84.96"
+    },
+    "city": {
+      "S": "Milan"
+    },
+    "country": {
+      "S": "Italy"
+    },
+    "lat": {
+      "N": "45.46"
+    },
+    "lon": {
+      "N": "9.19"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "114"
+    }
+  },
+  "EV100117": {
+    "id": {
+      "S": "EV100117"
+    },
+    "ts": {
+      "N": "1759103988"
+    },
+    "type": {
+      "S": "LOGIN"
+    },
+    "channel": {
+      "S": "BRANCH"
+    },
+    "account": {
+      "S": "********1751"
+    },
+    "amount": {
+      "N": "785.5"
+    },
+    "currency": {
+      "S": "GBP"
+    },
+    "value_usd": {
+      "N": "997.59"
+    },
+    "city": {
+      "S": "Barcelona"
+    },
+    "country": {
+      "S": "Spain"
+    },
+    "lat": {
+      "N": "41.39"
+    },
+    "lon": {
+      "N": "2.17"
+    },
+    "status": {
+      "S": "FAILED"
+    },
+    "latency_ms": {
+      "N": "208"
+    }
+  },
+  "EV100116": {
+    "id": {
+      "S": "EV100116"
+    },
+    "ts": {
+      "N": "1759103985"
+    },
+    "type": {
+      "S": "LOGIN"
+    },
+    "channel": {
+      "S": "CARDS"
+    },
+    "account": {
+      "S": "********2462"
+    },
+    "amount": {
+      "N": "264.5"
+    },
+    "currency": {
+      "S": "GBP"
+    },
+    "value_usd": {
+      "N": "335.92"
+    },
+    "city": {
+      "S": "Madrid"
+    },
+    "country": {
+      "S": "Spain"
+    },
+    "lat": {
+      "N": "40.42"
+    },
+    "lon": {
+      "N": "-3.7"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "660"
+    }
+  },
+  "EV100115": {
+    "id": {
+      "S": "EV100115"
+    },
+    "ts": {
+      "N": "1759103982"
+    },
+    "type": {
+      "S": "LOAN_APP"
+    },
+    "channel": {
+      "S": "SWIFT"
+    },
+    "account": {
+      "S": "********9534"
+    },
+    "amount": {
+      "N": "302.96"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "302.96"
+    },
+    "city": {
+      "S": "Rotterdam"
+    },
+    "country": {
+      "S": "Netherlands"
+    },
+    "lat": {
+      "N": "51.92"
+    },
+    "lon": {
+      "N": "4.48"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "112"
+    }
+  },
+  "EV100114": {
+    "id": {
+      "S": "EV100114"
+    },
+    "ts": {
+      "N": "1759103979"
+    },
+    "type": {
+      "S": "FX_TRADE"
+    },
+    "channel": {
+      "S": "ACH"
+    },
+    "account": {
+      "S": "********0331"
+    },
+    "amount": {
+      "N": "606.44"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "606.44"
+    },
+    "city": {
+      "S": "Amsterdam"
+    },
+    "country": {
+      "S": "Netherlands"
+    },
+    "lat": {
+      "N": "52.37"
+    },
+    "lon": {
+      "N": "4.9"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "78"
+    }
+  },
+  "EV100113": {
+    "id": {
+      "S": "EV100113"
+    },
+    "ts": {
+      "N": "1759103976"
+    },
+    "type": {
+      "S": "KYC_CHECK"
+    },
+    "channel": {
+      "S": "SWIFT"
+    },
+    "account": {
+      "S": "********8682"
+    },
+    "amount": {
+      "N": "44105"
+    },
+    "currency": {
+      "S": "JPY"
+    },
+    "value_usd": {
+      "N": "295.5"
+    },
+    "city": {
+      "S": "Geneva"
+    },
+    "country": {
+      "S": "Switzerland"
+    },
+    "lat": {
+      "N": "46.2"
+    },
+    "lon": {
+      "N": "6.14"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "140"
+    }
+  },
+  "EV100112": {
+    "id": {
+      "S": "EV100112"
+    },
+    "ts": {
+      "N": "1759103973"
+    },
+    "type": {
+      "S": "TRANSFER"
+    },
+    "channel": {
+      "S": "CARDS"
+    },
+    "account": {
+      "S": "********8017"
+    },
+    "amount": {
+      "N": "216.25"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "216.25"
+    },
+    "city": {
+      "S": "Zurich"
+    },
+    "country": {
+      "S": "Switzerland"
+    },
+    "lat": {
+      "N": "47.38"
+    },
+    "lon": {
+      "N": "8.54"
+    },
+    "status": {
+      "S": "REVIEW"
+    },
+    "latency_ms": {
+      "N": "35"
+    }
+  },
+  "EV100111": {
+    "id": {
+      "S": "EV100111"
+    },
+    "ts": {
+      "N": "1759103970"
+    },
+    "type": {
+      "S": "FX_TRADE"
+    },
+    "channel": {
+      "S": "CARDS"
+    },
+    "account": {
+      "S": "********7286"
+    },
+    "amount": {
+      "N": "571.3"
+    },
+    "currency": {
+      "S": "EUR"
+    },
+    "value_usd": {
+      "N": "617"
+    },
+    "city": {
+      "S": "Lyon"
+    },
+    "country": {
+      "S": "France"
+    },
+    "lat": {
+      "N": "45.76"
+    },
+    "lon": {
+      "N": "4.84"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "131"
+    }
+  },
+  "EV100110": {
+    "id": {
+      "S": "EV100110"
+    },
+    "ts": {
+      "N": "1759103967"
+    },
+    "type": {
+      "S": "LOAN_APP"
+    },
+    "channel": {
+      "S": "WEB"
+    },
+    "account": {
+      "S": "********1910"
+    },
+    "amount": {
+      "N": "1356.7"
+    },
+    "currency": {
+      "S": "GBP"
+    },
+    "value_usd": {
+      "N": "1723.01"
+    },
+    "city": {
+      "S": "Paris"
+    },
+    "country": {
+      "S": "France"
+    },
+    "lat": {
+      "N": "48.86"
+    },
+    "lon": {
+      "N": "2.35"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "62"
+    }
+  },
+  "EV100109": {
+    "id": {
+      "S": "EV100109"
+    },
+    "ts": {
+      "N": "1759103964"
+    },
+    "type": {
+      "S": "FX_TRADE"
+    },
+    "channel": {
+      "S": "SWIFT"
+    },
+    "account": {
+      "S": "********2727"
+    },
+    "amount": {
+      "N": "394356"
+    },
+    "currency": {
+      "S": "JPY"
+    },
+    "value_usd": {
+      "N": "2642.19"
+    },
+    "city": {
+      "S": "Munich"
+    },
+    "country": {
+      "S": "Germany"
+    },
+    "lat": {
+      "N": "48.14"
+    },
+    "lon": {
+      "N": "11.58"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "343"
+    }
+  },
+  "EV100108": {
+    "id": {
+      "S": "EV100108"
+    },
+    "ts": {
+      "N": "1759103961"
+    },
+    "type": {
+      "S": "TRANSFER"
+    },
+    "channel": {
+      "S": "MOBILE"
+    },
+    "account": {
+      "S": "********5499"
+    },
+    "amount": {
+      "N": "164.98"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "164.98"
+    },
+    "city": {
+      "S": "Frankfurt"
+    },
+    "country": {
+      "S": "Germany"
+    },
+    "lat": {
+      "N": "50.11"
+    },
+    "lon": {
+      "N": "8.68"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "86"
+    }
+  },
+  "EV100107": {
+    "id": {
+      "S": "EV100107"
+    },
+    "ts": {
+      "N": "1759103958"
+    },
+    "type": {
+      "S": "PAYMENT"
+    },
+    "channel": {
+      "S": "BRANCH"
+    },
+    "account": {
+      "S": "********4932"
+    },
+    "amount": {
+      "N": "2038.98"
+    },
+    "currency": {
+      "S": "GBP"
+    },
+    "value_usd": {
+      "N": "2589.5"
+    },
+    "city": {
+      "S": "Manchester"
+    },
+    "country": {
+      "S": "United Kingdom"
+    },
+    "lat": {
+      "N": "53.48"
+    },
+    "lon": {
+      "N": "-2.24"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "61"
+    }
+  },
+  "EV100106": {
+    "id": {
+      "S": "EV100106"
+    },
+    "ts": {
+      "N": "1759103955"
+    },
+    "type": {
+      "S": "TRANSFER"
+    },
+    "channel": {
+      "S": "CARDS"
+    },
+    "account": {
+      "S": "********4991"
+    },
+    "amount": {
+      "N": "495.46"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "495.46"
+    },
+    "city": {
+      "S": "London"
+    },
+    "country": {
+      "S": "United Kingdom"
+    },
+    "lat": {
+      "N": "51.51"
+    },
+    "lon": {
+      "N": "-0.13"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "86"
+    }
+  },
+  "EV100105": {
+    "id": {
+      "S": "EV100105"
+    },
+    "ts": {
+      "N": "1759103952"
+    },
+    "type": {
+      "S": "FX_TRADE"
+    },
+    "channel": {
+      "S": "ACH"
+    },
+    "account": {
+      "S": "********3454"
+    },
+    "amount": {
+      "N": "97446"
+    },
+    "currency": {
+      "S": "JPY"
+    },
+    "value_usd": {
+      "N": "652.89"
+    },
+    "city": {
+      "S": "C\u00f3rdoba"
+    },
+    "country": {
+      "S": "Argentina"
+    },
+    "lat": {
+      "N": "-31.42"
+    },
+    "lon": {
+      "N": "-64.18"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "150"
+    }
+  },
+  "EV100104": {
+    "id": {
+      "S": "EV100104"
+    },
+    "ts": {
+      "N": "1759103949"
+    },
+    "type": {
+      "S": "TRANSFER"
+    },
+    "channel": {
+      "S": "MOBILE"
+    },
+    "account": {
+      "S": "********8484"
+    },
+    "amount": {
+      "N": "1417.66"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "1417.66"
+    },
+    "city": {
+      "S": "Buenos Aires"
+    },
+    "country": {
+      "S": "Argentina"
+    },
+    "lat": {
+      "N": "-34.6"
+    },
+    "lon": {
+      "N": "-58.38"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "65"
+    }
+  },
+  "EV100103": {
+    "id": {
+      "S": "EV100103"
+    },
+    "ts": {
+      "N": "1759103946"
+    },
+    "type": {
+      "S": "PAYMENT"
+    },
+    "channel": {
+      "S": "SWIFT"
+    },
+    "account": {
+      "S": "********4375"
+    },
+    "amount": {
+      "N": "1071.19"
+    },
+    "currency": {
+      "S": "EUR"
+    },
+    "value_usd": {
+      "N": "1156.89"
+    },
+    "city": {
+      "S": "Rio de Janeiro"
+    },
+    "country": {
+      "S": "Brazil"
+    },
+    "lat": {
+      "N": "-22.91"
+    },
+    "lon": {
+      "N": "-43.17"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "140"
+    }
+  },
+  "EV100102": {
+    "id": {
+      "S": "EV100102"
+    },
+    "ts": {
+      "N": "1759103943"
+    },
+    "type": {
+      "S": "LOAN_APP"
+    },
+    "channel": {
+      "S": "ATM"
+    },
+    "account": {
+      "S": "********3857"
+    },
+    "amount": {
+      "N": "327.83"
+    },
+    "currency": {
+      "S": "GBP"
+    },
+    "value_usd": {
+      "N": "416.34"
+    },
+    "city": {
+      "S": "S\u00e3o Paulo"
+    },
+    "country": {
+      "S": "Brazil"
+    },
+    "lat": {
+      "N": "-23.55"
+    },
+    "lon": {
+      "N": "-46.63"
+    },
+    "status": {
+      "S": "REVIEW"
+    },
+    "latency_ms": {
+      "N": "137"
+    }
+  },
+  "EV100101": {
+    "id": {
+      "S": "EV100101"
+    },
+    "ts": {
+      "N": "1759103940"
+    },
+    "type": {
+      "S": "TRANSFER"
+    },
+    "channel": {
+      "S": "MOBILE"
+    },
+    "account": {
+      "S": "********9623"
+    },
+    "amount": {
+      "N": "721.98"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "721.98"
+    },
+    "city": {
+      "S": "Monterrey"
+    },
+    "country": {
+      "S": "Mexico"
+    },
+    "lat": {
+      "N": "25.67"
+    },
+    "lon": {
+      "N": "-100.31"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "71"
+    }
+  },
+  "EV100100": {
+    "id": {
+      "S": "EV100100"
+    },
+    "ts": {
+      "N": "1759103937"
+    },
+    "type": {
+      "S": "FX_TRADE"
+    },
+    "channel": {
+      "S": "ACH"
+    },
+    "account": {
+      "S": "********5169"
+    },
+    "amount": {
+      "N": "5403.47"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "5403.47"
+    },
+    "city": {
+      "S": "Mexico City"
+    },
+    "country": {
+      "S": "Mexico"
+    },
+    "lat": {
+      "N": "19.43"
+    },
+    "lon": {
+      "N": "-99.13"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "103"
+    }
+  },
+  "EV100099": {
+    "id": {
+      "S": "EV100099"
+    },
+    "ts": {
+      "N": "1759103934"
+    },
+    "type": {
+      "S": "LOAN_APP"
+    },
+    "channel": {
+      "S": "ACH"
+    },
+    "account": {
+      "S": "********9825"
+    },
+    "amount": {
+      "N": "196.77"
+    },
+    "currency": {
+      "S": "GBP"
+    },
+    "value_usd": {
+      "N": "249.9"
+    },
+    "city": {
+      "S": "Vancouver"
+    },
+    "country": {
+      "S": "Canada"
+    },
+    "lat": {
+      "N": "49.28"
+    },
+    "lon": {
+      "N": "-123.12"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "109"
+    }
+  },
+  "EV100098": {
+    "id": {
+      "S": "EV100098"
+    },
+    "ts": {
+      "N": "1759103931"
+    },
+    "type": {
+      "S": "TRANSFER"
+    },
+    "channel": {
+      "S": "WEB"
+    },
+    "account": {
+      "S": "********2165"
+    },
+    "amount": {
+      "N": "502.17"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "502.17"
+    },
+    "city": {
+      "S": "Toronto"
+    },
+    "country": {
+      "S": "Canada"
+    },
+    "lat": {
+      "N": "43.65"
+    },
+    "lon": {
+      "N": "-79.38"
+    },
+    "status": {
+      "S": "FAILED"
+    },
+    "latency_ms": {
+      "N": "91"
+    }
+  },
+  "EV100097": {
+    "id": {
+      "S": "EV100097"
+    },
+    "ts": {
+      "N": "1759103928"
+    },
+    "type": {
+      "S": "LOAN_APP"
+    },
+    "channel": {
+      "S": "SWIFT"
+    },
+    "account": {
+      "S": "********6245"
+    },
+    "amount": {
+      "N": "235.77"
+    },
+    "currency": {
+      "S": "EUR"
+    },
+    "value_usd": {
+      "N": "254.63"
+    },
+    "city": {
+      "S": "San Francisco"
+    },
+    "country": {
+      "S": "United States"
+    },
+    "lat": {
+      "N": "37.77"
+    },
+    "lon": {
+      "N": "-122.42"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "73"
+    }
+  },
+  "EV100096": {
+    "id": {
+      "S": "EV100096"
+    },
+    "ts": {
+      "N": "1759103925"
+    },
+    "type": {
+      "S": "KYC_CHECK"
+    },
+    "channel": {
+      "S": "WEB"
+    },
+    "account": {
+      "S": "********7747"
+    },
+    "amount": {
+      "N": "79.62"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "79.62"
+    },
+    "city": {
+      "S": "Chicago"
+    },
+    "country": {
+      "S": "United States"
+    },
+    "lat": {
+      "N": "41.88"
+    },
+    "lon": {
+      "N": "-87.63"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "98"
+    }
+  },
+  "EV100095": {
+    "id": {
+      "S": "EV100095"
+    },
+    "ts": {
+      "N": "1759103922"
+    },
+    "type": {
+      "S": "TRANSFER"
+    },
+    "channel": {
+      "S": "WEB"
+    },
+    "account": {
+      "S": "********8815"
+    },
+    "amount": {
+      "N": "361.43"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "361.43"
+    },
+    "city": {
+      "S": "New York"
+    },
+    "country": {
+      "S": "United States"
+    },
+    "lat": {
+      "N": "40.71"
+    },
+    "lon": {
+      "N": "-74.01"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "171"
+    }
+  },
+  "EV100094": {
+    "id": {
+      "S": "EV100094"
+    },
+    "ts": {
+      "N": "1759103919"
+    },
+    "type": {
+      "S": "TRANSFER"
+    },
+    "channel": {
+      "S": "BRANCH"
+    },
+    "account": {
+      "S": "********4736"
+    },
+    "amount": {
+      "N": "281.94"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "281.94"
+    },
+    "city": {
+      "S": "Mombasa"
+    },
+    "country": {
+      "S": "Kenya"
+    },
+    "lat": {
+      "N": "-4.04"
+    },
+    "lon": {
+      "N": "39.67"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "88"
+    }
+  },
+  "EV100093": {
+    "id": {
+      "S": "EV100093"
+    },
+    "ts": {
+      "N": "1759103916"
+    },
+    "type": {
+      "S": "LOAN_APP"
+    },
+    "channel": {
+      "S": "ATM"
+    },
+    "account": {
+      "S": "********2992"
+    },
+    "amount": {
+      "N": "1579.14"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "1579.14"
+    },
+    "city": {
+      "S": "Nairobi"
+    },
+    "country": {
+      "S": "Kenya"
+    },
+    "lat": {
+      "N": "-1.29"
+    },
+    "lon": {
+      "N": "36.82"
+    },
+    "status": {
+      "S": "PENDING"
+    },
+    "latency_ms": {
+      "N": "131"
+    }
+  },
+  "EV100092": {
+    "id": {
+      "S": "EV100092"
+    },
+    "ts": {
+      "N": "1759103913"
+    },
+    "type": {
+      "S": "LOGIN"
+    },
+    "channel": {
+      "S": "SWIFT"
+    },
+    "account": {
+      "S": "********8242"
+    },
+    "amount": {
+      "N": "93.19"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "93.19"
+    },
+    "city": {
+      "S": "Abuja"
+    },
+    "country": {
+      "S": "Nigeria"
+    },
+    "lat": {
+      "N": "9.06"
+    },
+    "lon": {
+      "N": "7.49"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "144"
+    }
+  },
+  "EV100091": {
+    "id": {
+      "S": "EV100091"
+    },
+    "ts": {
+      "N": "1759103910"
+    },
+    "type": {
+      "S": "PAYMENT"
+    },
+    "channel": {
+      "S": "BRANCH"
+    },
+    "account": {
+      "S": "********8669"
+    },
+    "amount": {
+      "N": "108.03"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "108.03"
+    },
+    "city": {
+      "S": "Lagos"
+    },
+    "country": {
+      "S": "Nigeria"
+    },
+    "lat": {
+      "N": "6.52"
+    },
+    "lon": {
+      "N": "3.38"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "119"
+    }
+  },
+  "EV100090": {
+    "id": {
+      "S": "EV100090"
+    },
+    "ts": {
+      "N": "1759103907"
+    },
+    "type": {
+      "S": "KYC_CHECK"
+    },
+    "channel": {
+      "S": "MOBILE"
+    },
+    "account": {
+      "S": "********4225"
+    },
+    "amount": {
+      "N": "1011.34"
+    },
+    "currency": {
+      "S": "GBP"
+    },
+    "value_usd": {
+      "N": "1284.4"
+    },
+    "city": {
+      "S": "Cape Town"
+    },
+    "country": {
+      "S": "South Africa"
+    },
+    "lat": {
+      "N": "-33.92"
+    },
+    "lon": {
+      "N": "18.42"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "98"
+    }
+  },
+  "EV100089": {
+    "id": {
+      "S": "EV100089"
+    },
+    "ts": {
+      "N": "1759103904"
+    },
+    "type": {
+      "S": "PAYMENT"
+    },
+    "channel": {
+      "S": "WEB"
+    },
+    "account": {
+      "S": "********7394"
+    },
+    "amount": {
+      "N": "432174"
+    },
+    "currency": {
+      "S": "JPY"
+    },
+    "value_usd": {
+      "N": "2895.57"
+    },
+    "city": {
+      "S": "Johannesburg"
+    },
+    "country": {
+      "S": "South Africa"
+    },
+    "lat": {
+      "N": "-26.2"
+    },
+    "lon": {
+      "N": "28.05"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "55"
+    }
+  },
+  "EV100088": {
+    "id": {
+      "S": "EV100088"
+    },
+    "ts": {
+      "N": "1759103901"
+    },
+    "type": {
+      "S": "LOGIN"
+    },
+    "channel": {
+      "S": "ACH"
+    },
+    "account": {
+      "S": "********5571"
+    },
+    "amount": {
+      "N": "102.05"
+    },
+    "currency": {
+      "S": "GBP"
+    },
+    "value_usd": {
+      "N": "129.6"
+    },
+    "city": {
+      "S": "Melbourne"
+    },
+    "country": {
+      "S": "Australia"
+    },
+    "lat": {
+      "N": "-37.81"
+    },
+    "lon": {
+      "N": "144.96"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "67"
+    }
+  },
+  "EV100087": {
+    "id": {
+      "S": "EV100087"
+    },
+    "ts": {
+      "N": "1759103898"
+    },
+    "type": {
+      "S": "CARD_AUTH"
+    },
+    "channel": {
+      "S": "BRANCH"
+    },
+    "account": {
+      "S": "********6582"
+    },
+    "amount": {
+      "N": "45.32"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "45.32"
+    },
+    "city": {
+      "S": "Sydney"
+    },
+    "country": {
+      "S": "Australia"
+    },
+    "lat": {
+      "N": "-33.87"
+    },
+    "lon": {
+      "N": "151.21"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "54"
+    }
+  },
+  "EV100086": {
+    "id": {
+      "S": "EV100086"
+    },
+    "ts": {
+      "N": "1759103895"
+    },
+    "type": {
+      "S": "LOAN_APP"
+    },
+    "channel": {
+      "S": "ACH"
+    },
+    "account": {
+      "S": "********4511"
+    },
+    "amount": {
+      "N": "704.36"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "704.36"
+    },
+    "city": {
+      "S": "Surabaya"
+    },
+    "country": {
+      "S": "Indonesia"
+    },
+    "lat": {
+      "N": "-7.25"
+    },
+    "lon": {
+      "N": "112.75"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "48"
+    }
+  },
+  "EV100085": {
+    "id": {
+      "S": "EV100085"
+    },
+    "ts": {
+      "N": "1759103892"
+    },
+    "type": {
+      "S": "TRANSFER"
+    },
+    "channel": {
+      "S": "BRANCH"
+    },
+    "account": {
+      "S": "********5415"
+    },
+    "amount": {
+      "N": "1891.83"
+    },
+    "currency": {
+      "S": "EUR"
+    },
+    "value_usd": {
+      "N": "2043.18"
+    },
+    "city": {
+      "S": "Jakarta"
+    },
+    "country": {
+      "S": "Indonesia"
+    },
+    "lat": {
+      "N": "-6.21"
+    },
+    "lon": {
+      "N": "106.85"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "45"
+    }
+  },
+  "EV100084": {
+    "id": {
+      "S": "EV100084"
+    },
+    "ts": {
+      "N": "1759103889"
+    },
+    "type": {
+      "S": "PAYMENT"
+    },
+    "channel": {
+      "S": "ATM"
+    },
+    "account": {
+      "S": "********2170"
+    },
+    "amount": {
+      "N": "13.05"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "13.05"
+    },
+    "city": {
+      "S": "Busan"
+    },
+    "country": {
+      "S": "South Korea"
+    },
+    "lat": {
+      "N": "35.18"
+    },
+    "lon": {
+      "N": "129.08"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "385"
+    }
+  },
+  "EV100083": {
+    "id": {
+      "S": "EV100083"
+    },
+    "ts": {
+      "N": "1759103886"
+    },
+    "type": {
+      "S": "FX_TRADE"
+    },
+    "channel": {
+      "S": "MOBILE"
+    },
+    "account": {
+      "S": "********0654"
+    },
+    "amount": {
+      "N": "14986"
+    },
+    "currency": {
+      "S": "JPY"
+    },
+    "value_usd": {
+      "N": "100.41"
+    },
+    "city": {
+      "S": "Seoul"
+    },
+    "country": {
+      "S": "South Korea"
+    },
+    "lat": {
+      "N": "37.57"
+    },
+    "lon": {
+      "N": "126.98"
+    },
+    "status": {
+      "S": "PENDING"
+    },
+    "latency_ms": {
+      "N": "129"
+    }
+  },
+  "EV100082": {
+    "id": {
+      "S": "EV100082"
+    },
+    "ts": {
+      "N": "1759103883"
+    },
+    "type": {
+      "S": "TRANSFER"
+    },
+    "channel": {
+      "S": "ACH"
+    },
+    "account": {
+      "S": "********2460"
+    },
+    "amount": {
+      "N": "177.09"
+    },
+    "currency": {
+      "S": "GBP"
+    },
+    "value_usd": {
+      "N": "224.9"
+    },
+    "city": {
+      "S": "Osaka"
+    },
+    "country": {
+      "S": "Japan"
+    },
+    "lat": {
+      "N": "34.69"
+    },
+    "lon": {
+      "N": "135.5"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "93"
+    }
+  },
+  "EV100081": {
+    "id": {
+      "S": "EV100081"
+    },
+    "ts": {
+      "N": "1759103880"
+    },
+    "type": {
+      "S": "TRANSFER"
+    },
+    "channel": {
+      "S": "BRANCH"
+    },
+    "account": {
+      "S": "********9861"
+    },
+    "amount": {
+      "N": "196.85"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "196.85"
+    },
+    "city": {
+      "S": "Tokyo"
+    },
+    "country": {
+      "S": "Japan"
+    },
+    "lat": {
+      "N": "35.68"
+    },
+    "lon": {
+      "N": "139.69"
+    },
+    "status": {
+      "S": "REVIEW"
+    },
+    "latency_ms": {
+      "N": "157"
+    }
+  },
+  "EV100080": {
+    "id": {
+      "S": "EV100080"
+    },
+    "ts": {
+      "N": "1759103877"
+    },
+    "type": {
+      "S": "CARD_AUTH"
+    },
+    "channel": {
+      "S": "BRANCH"
+    },
+    "account": {
+      "S": "********0515"
+    },
+    "amount": {
+      "N": "119.04"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "119.04"
+    },
+    "city": {
+      "S": "Beijing"
+    },
+    "country": {
+      "S": "China"
+    },
+    "lat": {
+      "N": "39.9"
+    },
+    "lon": {
+      "N": "116.41"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "148"
+    }
+  },
+  "EV100079": {
+    "id": {
+      "S": "EV100079"
+    },
+    "ts": {
+      "N": "1759103874"
+    },
+    "type": {
+      "S": "LOAN_APP"
+    },
+    "channel": {
+      "S": "WEB"
+    },
+    "account": {
+      "S": "********1814"
+    },
+    "amount": {
+      "N": "961.98"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "961.98"
+    },
+    "city": {
+      "S": "Shanghai"
+    },
+    "country": {
+      "S": "China"
+    },
+    "lat": {
+      "N": "31.23"
+    },
+    "lon": {
+      "N": "121.47"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "191"
+    }
+  },
+  "EV100078": {
+    "id": {
+      "S": "EV100078"
+    },
+    "ts": {
+      "N": "1759103871"
+    },
+    "type": {
+      "S": "KYC_CHECK"
+    },
+    "channel": {
+      "S": "SWIFT"
+    },
+    "account": {
+      "S": "********7359"
+    },
+    "amount": {
+      "N": "354.91"
+    },
+    "currency": {
+      "S": "EUR"
+    },
+    "value_usd": {
+      "N": "383.3"
+    },
+    "city": {
+      "S": "Hong Kong"
+    },
+    "country": {
+      "S": "Hong Kong"
+    },
+    "lat": {
+      "N": "22.32"
+    },
+    "lon": {
+      "N": "114.17"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "81"
+    }
+  },
+  "EV100077": {
+    "id": {
+      "S": "EV100077"
+    },
+    "ts": {
+      "N": "1759103868"
+    },
+    "type": {
+      "S": "KYC_CHECK"
+    },
+    "channel": {
+      "S": "MOBILE"
+    },
+    "account": {
+      "S": "********9622"
+    },
+    "amount": {
+      "N": "981.9"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "981.9"
+    },
+    "city": {
+      "S": "Singapore"
+    },
+    "country": {
+      "S": "Singapore"
+    },
+    "lat": {
+      "N": "1.35"
+    },
+    "lon": {
+      "N": "103.82"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "54"
+    }
+  },
+  "EV100076": {
+    "id": {
+      "S": "EV100076"
+    },
+    "ts": {
+      "N": "1759103865"
+    },
+    "type": {
+      "S": "TRANSFER"
+    },
+    "channel": {
+      "S": "WEB"
+    },
+    "account": {
+      "S": "********6850"
+    },
+    "amount": {
+      "N": "79.4"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "79.4"
+    },
+    "city": {
+      "S": "Bengaluru"
+    },
+    "country": {
+      "S": "India"
+    },
+    "lat": {
+      "N": "12.97"
+    },
+    "lon": {
+      "N": "77.59"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "54"
+    }
+  },
+  "EV100075": {
+    "id": {
+      "S": "EV100075"
+    },
+    "ts": {
+      "N": "1759103862"
+    },
+    "type": {
+      "S": "FX_TRADE"
+    },
+    "channel": {
+      "S": "ACH"
+    },
+    "account": {
+      "S": "********2519"
+    },
+    "amount": {
+      "N": "16092"
+    },
+    "currency": {
+      "S": "JPY"
+    },
+    "value_usd": {
+      "N": "107.82"
+    },
+    "city": {
+      "S": "Mumbai"
+    },
+    "country": {
+      "S": "India"
+    },
+    "lat": {
+      "N": "19.08"
+    },
+    "lon": {
+      "N": "72.88"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "24"
+    }
+  },
+  "EV100074": {
+    "id": {
+      "S": "EV100074"
+    },
+    "ts": {
+      "N": "1759103859"
+    },
+    "type": {
+      "S": "FX_TRADE"
+    },
+    "channel": {
+      "S": "SWIFT"
+    },
+    "account": {
+      "S": "********9255"
+    },
+    "amount": {
+      "N": "121.64"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "121.64"
+    },
+    "city": {
+      "S": "Abu Dhabi"
+    },
+    "country": {
+      "S": "United Arab Emirates"
+    },
+    "lat": {
+      "N": "24.45"
+    },
+    "lon": {
+      "N": "54.38"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "209"
+    }
+  },
+  "EV100073": {
+    "id": {
+      "S": "EV100073"
+    },
+    "ts": {
+      "N": "1759103856"
+    },
+    "type": {
+      "S": "LOAN_APP"
+    },
+    "channel": {
+      "S": "BRANCH"
+    },
+    "account": {
+      "S": "********8679"
+    },
+    "amount": {
+      "N": "498.7"
+    },
+    "currency": {
+      "S": "GBP"
+    },
+    "value_usd": {
+      "N": "633.35"
+    },
+    "city": {
+      "S": "Dubai"
+    },
+    "country": {
+      "S": "United Arab Emirates"
+    },
+    "lat": {
+      "N": "25.2"
+    },
+    "lon": {
+      "N": "55.27"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "51"
+    }
+  },
+  "EV100072": {
+    "id": {
+      "S": "EV100072"
+    },
+    "ts": {
+      "N": "1759103853"
+    },
+    "type": {
+      "S": "PAYMENT"
+    },
+    "channel": {
+      "S": "ATM"
+    },
+    "account": {
+      "S": "********7177"
+    },
+    "amount": {
+      "N": "31499"
+    },
+    "currency": {
+      "S": "JPY"
+    },
+    "value_usd": {
+      "N": "211.04"
+    },
+    "city": {
+      "S": "Rome"
+    },
+    "country": {
+      "S": "Italy"
+    },
+    "lat": {
+      "N": "41.9"
+    },
+    "lon": {
+      "N": "12.5"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "39"
+    }
+  },
+  "EV100071": {
+    "id": {
+      "S": "EV100071"
+    },
+    "ts": {
+      "N": "1759103850"
+    },
+    "type": {
+      "S": "CARD_AUTH"
+    },
+    "channel": {
+      "S": "CARDS"
+    },
+    "account": {
+      "S": "********2312"
+    },
+    "amount": {
+      "N": "64.8"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "64.8"
+    },
+    "city": {
+      "S": "Milan"
+    },
+    "country": {
+      "S": "Italy"
+    },
+    "lat": {
+      "N": "45.46"
+    },
+    "lon": {
+      "N": "9.19"
+    },
+    "status": {
+      "S": "REVIEW"
+    },
+    "latency_ms": {
+      "N": "115"
+    }
+  },
+  "EV100070": {
+    "id": {
+      "S": "EV100070"
+    },
+    "ts": {
+      "N": "1759103847"
+    },
+    "type": {
+      "S": "LOAN_APP"
+    },
+    "channel": {
+      "S": "MOBILE"
+    },
+    "account": {
+      "S": "********7516"
+    },
+    "amount": {
+      "N": "90.06"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "90.06"
+    },
+    "city": {
+      "S": "Barcelona"
+    },
+    "country": {
+      "S": "Spain"
+    },
+    "lat": {
+      "N": "41.39"
+    },
+    "lon": {
+      "N": "2.17"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "24"
+    }
+  },
+  "EV100069": {
+    "id": {
+      "S": "EV100069"
+    },
+    "ts": {
+      "N": "1759103844"
+    },
+    "type": {
+      "S": "KYC_CHECK"
+    },
+    "channel": {
+      "S": "MOBILE"
+    },
+    "account": {
+      "S": "********3885"
+    },
+    "amount": {
+      "N": "154.73"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "154.73"
+    },
+    "city": {
+      "S": "Madrid"
+    },
+    "country": {
+      "S": "Spain"
+    },
+    "lat": {
+      "N": "40.42"
+    },
+    "lon": {
+      "N": "-3.7"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "108"
+    }
+  },
+  "EV100068": {
+    "id": {
+      "S": "EV100068"
+    },
+    "ts": {
+      "N": "1759103841"
+    },
+    "type": {
+      "S": "PAYMENT"
+    },
+    "channel": {
+      "S": "WEB"
+    },
+    "account": {
+      "S": "********7840"
+    },
+    "amount": {
+      "N": "215.33"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "215.33"
+    },
+    "city": {
+      "S": "Rotterdam"
+    },
+    "country": {
+      "S": "Netherlands"
+    },
+    "lat": {
+      "N": "51.92"
+    },
+    "lon": {
+      "N": "4.48"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "131"
+    }
+  },
+  "EV100067": {
+    "id": {
+      "S": "EV100067"
+    },
+    "ts": {
+      "N": "1759103838"
+    },
+    "type": {
+      "S": "FX_TRADE"
+    },
+    "channel": {
+      "S": "BRANCH"
+    },
+    "account": {
+      "S": "********0229"
+    },
+    "amount": {
+      "N": "716.24"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "716.24"
+    },
+    "city": {
+      "S": "Amsterdam"
+    },
+    "country": {
+      "S": "Netherlands"
+    },
+    "lat": {
+      "N": "52.37"
+    },
+    "lon": {
+      "N": "4.9"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "108"
+    }
+  },
+  "EV100066": {
+    "id": {
+      "S": "EV100066"
+    },
+    "ts": {
+      "N": "1759103835"
+    },
+    "type": {
+      "S": "PAYMENT"
+    },
+    "channel": {
+      "S": "MOBILE"
+    },
+    "account": {
+      "S": "********2296"
+    },
+    "amount": {
+      "N": "38.68"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "38.68"
+    },
+    "city": {
+      "S": "Geneva"
+    },
+    "country": {
+      "S": "Switzerland"
+    },
+    "lat": {
+      "N": "46.2"
+    },
+    "lon": {
+      "N": "6.14"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "54"
+    }
+  },
+  "EV100065": {
+    "id": {
+      "S": "EV100065"
+    },
+    "ts": {
+      "N": "1759103832"
+    },
+    "type": {
+      "S": "FX_TRADE"
+    },
+    "channel": {
+      "S": "SWIFT"
+    },
+    "account": {
+      "S": "********1493"
+    },
+    "amount": {
+      "N": "2919.31"
+    },
+    "currency": {
+      "S": "EUR"
+    },
+    "value_usd": {
+      "N": "3152.85"
+    },
+    "city": {
+      "S": "Zurich"
+    },
+    "country": {
+      "S": "Switzerland"
+    },
+    "lat": {
+      "N": "47.38"
+    },
+    "lon": {
+      "N": "8.54"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "124"
+    }
+  },
+  "EV100064": {
+    "id": {
+      "S": "EV100064"
+    },
+    "ts": {
+      "N": "1759103829"
+    },
+    "type": {
+      "S": "KYC_CHECK"
+    },
+    "channel": {
+      "S": "ATM"
+    },
+    "account": {
+      "S": "********2809"
+    },
+    "amount": {
+      "N": "632.04"
+    },
+    "currency": {
+      "S": "GBP"
+    },
+    "value_usd": {
+      "N": "802.69"
+    },
+    "city": {
+      "S": "Lyon"
+    },
+    "country": {
+      "S": "France"
+    },
+    "lat": {
+      "N": "45.76"
+    },
+    "lon": {
+      "N": "4.84"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "62"
+    }
+  },
+  "EV100063": {
+    "id": {
+      "S": "EV100063"
+    },
+    "ts": {
+      "N": "1759103826"
+    },
+    "type": {
+      "S": "LOGIN"
+    },
+    "channel": {
+      "S": "ACH"
+    },
+    "account": {
+      "S": "********6576"
+    },
+    "amount": {
+      "N": "899.82"
+    },
+    "currency": {
+      "S": "EUR"
+    },
+    "value_usd": {
+      "N": "971.81"
+    },
+    "city": {
+      "S": "Paris"
+    },
+    "country": {
+      "S": "France"
+    },
+    "lat": {
+      "N": "48.86"
+    },
+    "lon": {
+      "N": "2.35"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "77"
+    }
+  },
+  "EV100062": {
+    "id": {
+      "S": "EV100062"
+    },
+    "ts": {
+      "N": "1759103823"
+    },
+    "type": {
+      "S": "KYC_CHECK"
+    },
+    "channel": {
+      "S": "SWIFT"
+    },
+    "account": {
+      "S": "********1249"
+    },
+    "amount": {
+      "N": "123365"
+    },
+    "currency": {
+      "S": "JPY"
+    },
+    "value_usd": {
+      "N": "826.55"
+    },
+    "city": {
+      "S": "Munich"
+    },
+    "country": {
+      "S": "Germany"
+    },
+    "lat": {
+      "N": "48.14"
+    },
+    "lon": {
+      "N": "11.58"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "58"
+    }
+  },
+  "EV100061": {
+    "id": {
+      "S": "EV100061"
+    },
+    "ts": {
+      "N": "1759103820"
+    },
+    "type": {
+      "S": "PAYMENT"
+    },
+    "channel": {
+      "S": "MOBILE"
+    },
+    "account": {
+      "S": "********9178"
+    },
+    "amount": {
+      "N": "443.66"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "443.66"
+    },
+    "city": {
+      "S": "Frankfurt"
+    },
+    "country": {
+      "S": "Germany"
+    },
+    "lat": {
+      "N": "50.11"
+    },
+    "lon": {
+      "N": "8.68"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "167"
+    }
+  },
+  "EV100060": {
+    "id": {
+      "S": "EV100060"
+    },
+    "ts": {
+      "N": "1759103817"
+    },
+    "type": {
+      "S": "LOGIN"
+    },
+    "channel": {
+      "S": "MOBILE"
+    },
+    "account": {
+      "S": "********1020"
+    },
+    "amount": {
+      "N": "1006.18"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "1006.18"
+    },
+    "city": {
+      "S": "Manchester"
+    },
+    "country": {
+      "S": "United Kingdom"
+    },
+    "lat": {
+      "N": "53.48"
+    },
+    "lon": {
+      "N": "-2.24"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "68"
+    }
+  },
+  "EV100059": {
+    "id": {
+      "S": "EV100059"
+    },
+    "ts": {
+      "N": "1759103814"
+    },
+    "type": {
+      "S": "CARD_AUTH"
+    },
+    "channel": {
+      "S": "WEB"
+    },
+    "account": {
+      "S": "********2931"
+    },
+    "amount": {
+      "N": "164.51"
+    },
+    "currency": {
+      "S": "GBP"
+    },
+    "value_usd": {
+      "N": "208.93"
+    },
+    "city": {
+      "S": "London"
+    },
+    "country": {
+      "S": "United Kingdom"
+    },
+    "lat": {
+      "N": "51.51"
+    },
+    "lon": {
+      "N": "-0.13"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "342"
+    }
+  },
+  "EV100058": {
+    "id": {
+      "S": "EV100058"
+    },
+    "ts": {
+      "N": "1759103811"
+    },
+    "type": {
+      "S": "PAYMENT"
+    },
+    "channel": {
+      "S": "BRANCH"
+    },
+    "account": {
+      "S": "********3515"
+    },
+    "amount": {
+      "N": "6101.78"
+    },
+    "currency": {
+      "S": "GBP"
+    },
+    "value_usd": {
+      "N": "7749.26"
+    },
+    "city": {
+      "S": "C\u00f3rdoba"
+    },
+    "country": {
+      "S": "Argentina"
+    },
+    "lat": {
+      "N": "-31.42"
+    },
+    "lon": {
+      "N": "-64.18"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "62"
+    }
+  },
+  "EV100057": {
+    "id": {
+      "S": "EV100057"
+    },
+    "ts": {
+      "N": "1759103808"
+    },
+    "type": {
+      "S": "FX_TRADE"
+    },
+    "channel": {
+      "S": "WEB"
+    },
+    "account": {
+      "S": "********2675"
+    },
+    "amount": {
+      "N": "76463"
+    },
+    "currency": {
+      "S": "JPY"
+    },
+    "value_usd": {
+      "N": "512.3"
+    },
+    "city": {
+      "S": "Buenos Aires"
+    },
+    "country": {
+      "S": "Argentina"
+    },
+    "lat": {
+      "N": "-34.6"
+    },
+    "lon": {
+      "N": "-58.38"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "234"
+    }
+  },
+  "EV100056": {
+    "id": {
+      "S": "EV100056"
+    },
+    "ts": {
+      "N": "1759103805"
+    },
+    "type": {
+      "S": "KYC_CHECK"
+    },
+    "channel": {
+      "S": "ACH"
+    },
+    "account": {
+      "S": "********9859"
+    },
+    "amount": {
+      "N": "1067.04"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "1067.04"
+    },
+    "city": {
+      "S": "Rio de Janeiro"
+    },
+    "country": {
+      "S": "Brazil"
+    },
+    "lat": {
+      "N": "-22.91"
+    },
+    "lon": {
+      "N": "-43.17"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "107"
+    }
+  },
+  "EV100055": {
+    "id": {
+      "S": "EV100055"
+    },
+    "ts": {
+      "N": "1759103802"
+    },
+    "type": {
+      "S": "LOGIN"
+    },
+    "channel": {
+      "S": "SWIFT"
+    },
+    "account": {
+      "S": "********2368"
+    },
+    "amount": {
+      "N": "79.42"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "79.42"
+    },
+    "city": {
+      "S": "S\u00e3o Paulo"
+    },
+    "country": {
+      "S": "Brazil"
+    },
+    "lat": {
+      "N": "-23.55"
+    },
+    "lon": {
+      "N": "-46.63"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "78"
+    }
+  },
+  "EV100054": {
+    "id": {
+      "S": "EV100054"
+    },
+    "ts": {
+      "N": "1759103799"
+    },
+    "type": {
+      "S": "CARD_AUTH"
+    },
+    "channel": {
+      "S": "SWIFT"
+    },
+    "account": {
+      "S": "********2145"
+    },
+    "amount": {
+      "N": "46944"
+    },
+    "currency": {
+      "S": "JPY"
+    },
+    "value_usd": {
+      "N": "314.52"
+    },
+    "city": {
+      "S": "Monterrey"
+    },
+    "country": {
+      "S": "Mexico"
+    },
+    "lat": {
+      "N": "25.67"
+    },
+    "lon": {
+      "N": "-100.31"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "129"
+    }
+  },
+  "EV100053": {
+    "id": {
+      "S": "EV100053"
+    },
+    "ts": {
+      "N": "1759103796"
+    },
+    "type": {
+      "S": "TRANSFER"
+    },
+    "channel": {
+      "S": "SWIFT"
+    },
+    "account": {
+      "S": "********9743"
+    },
+    "amount": {
+      "N": "1020.97"
+    },
+    "currency": {
+      "S": "GBP"
+    },
+    "value_usd": {
+      "N": "1296.63"
+    },
+    "city": {
+      "S": "Mexico City"
+    },
+    "country": {
+      "S": "Mexico"
+    },
+    "lat": {
+      "N": "19.43"
+    },
+    "lon": {
+      "N": "-99.13"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "173"
+    }
+  },
+  "EV100052": {
+    "id": {
+      "S": "EV100052"
+    },
+    "ts": {
+      "N": "1759103793"
+    },
+    "type": {
+      "S": "KYC_CHECK"
+    },
+    "channel": {
+      "S": "MOBILE"
+    },
+    "account": {
+      "S": "********5946"
+    },
+    "amount": {
+      "N": "18706"
+    },
+    "currency": {
+      "S": "JPY"
+    },
+    "value_usd": {
+      "N": "125.33"
+    },
+    "city": {
+      "S": "Vancouver"
+    },
+    "country": {
+      "S": "Canada"
+    },
+    "lat": {
+      "N": "49.28"
+    },
+    "lon": {
+      "N": "-123.12"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "74"
+    }
+  },
+  "EV100051": {
+    "id": {
+      "S": "EV100051"
+    },
+    "ts": {
+      "N": "1759103790"
+    },
+    "type": {
+      "S": "LOAN_APP"
+    },
+    "channel": {
+      "S": "WEB"
+    },
+    "account": {
+      "S": "********2219"
+    },
+    "amount": {
+      "N": "589.17"
+    },
+    "currency": {
+      "S": "EUR"
+    },
+    "value_usd": {
+      "N": "636.3"
+    },
+    "city": {
+      "S": "Toronto"
+    },
+    "country": {
+      "S": "Canada"
+    },
+    "lat": {
+      "N": "43.65"
+    },
+    "lon": {
+      "N": "-79.38"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "85"
+    }
+  },
+  "EV100050": {
+    "id": {
+      "S": "EV100050"
+    },
+    "ts": {
+      "N": "1759103787"
+    },
+    "type": {
+      "S": "TRANSFER"
+    },
+    "channel": {
+      "S": "ACH"
+    },
+    "account": {
+      "S": "********3161"
+    },
+    "amount": {
+      "N": "104302"
+    },
+    "currency": {
+      "S": "JPY"
+    },
+    "value_usd": {
+      "N": "698.82"
+    },
+    "city": {
+      "S": "San Francisco"
+    },
+    "country": {
+      "S": "United States"
+    },
+    "lat": {
+      "N": "37.77"
+    },
+    "lon": {
+      "N": "-122.42"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "138"
+    }
+  },
+  "EV100049": {
+    "id": {
+      "S": "EV100049"
+    },
+    "ts": {
+      "N": "1759103784"
+    },
+    "type": {
+      "S": "KYC_CHECK"
+    },
+    "channel": {
+      "S": "ACH"
+    },
+    "account": {
+      "S": "********8702"
+    },
+    "amount": {
+      "N": "90.2"
+    },
+    "currency": {
+      "S": "EUR"
+    },
+    "value_usd": {
+      "N": "97.42"
+    },
+    "city": {
+      "S": "Chicago"
+    },
+    "country": {
+      "S": "United States"
+    },
+    "lat": {
+      "N": "41.88"
+    },
+    "lon": {
+      "N": "-87.63"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "163"
+    }
+  },
+  "EV100048": {
+    "id": {
+      "S": "EV100048"
+    },
+    "ts": {
+      "N": "1759103781"
+    },
+    "type": {
+      "S": "CARD_AUTH"
+    },
+    "channel": {
+      "S": "BRANCH"
+    },
+    "account": {
+      "S": "********6360"
+    },
+    "amount": {
+      "N": "2962.55"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "2962.55"
+    },
+    "city": {
+      "S": "New York"
+    },
+    "country": {
+      "S": "United States"
+    },
+    "lat": {
+      "N": "40.71"
+    },
+    "lon": {
+      "N": "-74.01"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "108"
+    }
+  },
+  "EV100047": {
+    "id": {
+      "S": "EV100047"
+    },
+    "ts": {
+      "N": "1759103778"
+    },
+    "type": {
+      "S": "CARD_AUTH"
+    },
+    "channel": {
+      "S": "WEB"
+    },
+    "account": {
+      "S": "********4044"
+    },
+    "amount": {
+      "N": "709.44"
+    },
+    "currency": {
+      "S": "GBP"
+    },
+    "value_usd": {
+      "N": "900.99"
+    },
+    "city": {
+      "S": "Mombasa"
+    },
+    "country": {
+      "S": "Kenya"
+    },
+    "lat": {
+      "N": "-4.04"
+    },
+    "lon": {
+      "N": "39.67"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "95"
+    }
+  },
+  "EV100046": {
+    "id": {
+      "S": "EV100046"
+    },
+    "ts": {
+      "N": "1759103775"
+    },
+    "type": {
+      "S": "KYC_CHECK"
+    },
+    "channel": {
+      "S": "WEB"
+    },
+    "account": {
+      "S": "********2748"
+    },
+    "amount": {
+      "N": "2249"
+    },
+    "currency": {
+      "S": "JPY"
+    },
+    "value_usd": {
+      "N": "15.07"
+    },
+    "city": {
+      "S": "Nairobi"
+    },
+    "country": {
+      "S": "Kenya"
+    },
+    "lat": {
+      "N": "-1.29"
+    },
+    "lon": {
+      "N": "36.82"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "98"
+    }
+  },
+  "EV100045": {
+    "id": {
+      "S": "EV100045"
+    },
+    "ts": {
+      "N": "1759103772"
+    },
+    "type": {
+      "S": "FX_TRADE"
+    },
+    "channel": {
+      "S": "SWIFT"
+    },
+    "account": {
+      "S": "********8247"
+    },
+    "amount": {
+      "N": "58269"
+    },
+    "currency": {
+      "S": "JPY"
+    },
+    "value_usd": {
+      "N": "390.4"
+    },
+    "city": {
+      "S": "Abuja"
+    },
+    "country": {
+      "S": "Nigeria"
+    },
+    "lat": {
+      "N": "9.06"
+    },
+    "lon": {
+      "N": "7.49"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "123"
+    }
+  },
+  "EV100044": {
+    "id": {
+      "S": "EV100044"
+    },
+    "ts": {
+      "N": "1759103769"
+    },
+    "type": {
+      "S": "LOGIN"
+    },
+    "channel": {
+      "S": "ATM"
+    },
+    "account": {
+      "S": "********5674"
+    },
+    "amount": {
+      "N": "75458"
+    },
+    "currency": {
+      "S": "JPY"
+    },
+    "value_usd": {
+      "N": "505.57"
+    },
+    "city": {
+      "S": "Lagos"
+    },
+    "country": {
+      "S": "Nigeria"
+    },
+    "lat": {
+      "N": "6.52"
+    },
+    "lon": {
+      "N": "3.38"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "86"
+    }
+  },
+  "EV100043": {
+    "id": {
+      "S": "EV100043"
+    },
+    "ts": {
+      "N": "1759103766"
+    },
+    "type": {
+      "S": "LOGIN"
+    },
+    "channel": {
+      "S": "WEB"
+    },
+    "account": {
+      "S": "********9904"
+    },
+    "amount": {
+      "N": "329.21"
+    },
+    "currency": {
+      "S": "GBP"
+    },
+    "value_usd": {
+      "N": "418.1"
+    },
+    "city": {
+      "S": "Cape Town"
+    },
+    "country": {
+      "S": "South Africa"
+    },
+    "lat": {
+      "N": "-33.92"
+    },
+    "lon": {
+      "N": "18.42"
+    },
+    "status": {
+      "S": "PENDING"
+    },
+    "latency_ms": {
+      "N": "63"
+    }
+  },
+  "EV100042": {
+    "id": {
+      "S": "EV100042"
+    },
+    "ts": {
+      "N": "1759103763"
+    },
+    "type": {
+      "S": "LOGIN"
+    },
+    "channel": {
+      "S": "SWIFT"
+    },
+    "account": {
+      "S": "********9471"
+    },
+    "amount": {
+      "N": "1824.71"
+    },
+    "currency": {
+      "S": "EUR"
+    },
+    "value_usd": {
+      "N": "1970.69"
+    },
+    "city": {
+      "S": "Johannesburg"
+    },
+    "country": {
+      "S": "South Africa"
+    },
+    "lat": {
+      "N": "-26.2"
+    },
+    "lon": {
+      "N": "28.05"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "89"
+    }
+  },
+  "EV100041": {
+    "id": {
+      "S": "EV100041"
+    },
+    "ts": {
+      "N": "1759103760"
+    },
+    "type": {
+      "S": "FX_TRADE"
+    },
+    "channel": {
+      "S": "CARDS"
+    },
+    "account": {
+      "S": "********4713"
+    },
+    "amount": {
+      "N": "2549.67"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "2549.67"
+    },
+    "city": {
+      "S": "Melbourne"
+    },
+    "country": {
+      "S": "Australia"
+    },
+    "lat": {
+      "N": "-37.81"
+    },
+    "lon": {
+      "N": "144.96"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "76"
+    }
+  },
+  "EV100040": {
+    "id": {
+      "S": "EV100040"
+    },
+    "ts": {
+      "N": "1759103757"
+    },
+    "type": {
+      "S": "TRANSFER"
+    },
+    "channel": {
+      "S": "WEB"
+    },
+    "account": {
+      "S": "********0913"
+    },
+    "amount": {
+      "N": "7838"
+    },
+    "currency": {
+      "S": "JPY"
+    },
+    "value_usd": {
+      "N": "52.51"
+    },
+    "city": {
+      "S": "Sydney"
+    },
+    "country": {
+      "S": "Australia"
+    },
+    "lat": {
+      "N": "-33.87"
+    },
+    "lon": {
+      "N": "151.21"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "95"
+    }
+  },
+  "EV100039": {
+    "id": {
+      "S": "EV100039"
+    },
+    "ts": {
+      "N": "1759103754"
+    },
+    "type": {
+      "S": "LOAN_APP"
+    },
+    "channel": {
+      "S": "CARDS"
+    },
+    "account": {
+      "S": "********9413"
+    },
+    "amount": {
+      "N": "512.29"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "512.29"
+    },
+    "city": {
+      "S": "Surabaya"
+    },
+    "country": {
+      "S": "Indonesia"
+    },
+    "lat": {
+      "N": "-7.25"
+    },
+    "lon": {
+      "N": "112.75"
+    },
+    "status": {
+      "S": "FAILED"
+    },
+    "latency_ms": {
+      "N": "49"
+    }
+  },
+  "EV100038": {
+    "id": {
+      "S": "EV100038"
+    },
+    "ts": {
+      "N": "1759103751"
+    },
+    "type": {
+      "S": "TRANSFER"
+    },
+    "channel": {
+      "S": "MOBILE"
+    },
+    "account": {
+      "S": "********7109"
+    },
+    "amount": {
+      "N": "353.77"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "353.77"
+    },
+    "city": {
+      "S": "Jakarta"
+    },
+    "country": {
+      "S": "Indonesia"
+    },
+    "lat": {
+      "N": "-6.21"
+    },
+    "lon": {
+      "N": "106.85"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "214"
+    }
+  },
+  "EV100037": {
+    "id": {
+      "S": "EV100037"
+    },
+    "ts": {
+      "N": "1759103748"
+    },
+    "type": {
+      "S": "TRANSFER"
+    },
+    "channel": {
+      "S": "ATM"
+    },
+    "account": {
+      "S": "********7498"
+    },
+    "amount": {
+      "N": "226.01"
+    },
+    "currency": {
+      "S": "GBP"
+    },
+    "value_usd": {
+      "N": "287.03"
+    },
+    "city": {
+      "S": "Busan"
+    },
+    "country": {
+      "S": "South Korea"
+    },
+    "lat": {
+      "N": "35.18"
+    },
+    "lon": {
+      "N": "129.08"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "73"
+    }
+  },
+  "EV100036": {
+    "id": {
+      "S": "EV100036"
+    },
+    "ts": {
+      "N": "1759103745"
+    },
+    "type": {
+      "S": "LOGIN"
+    },
+    "channel": {
+      "S": "ATM"
+    },
+    "account": {
+      "S": "********5788"
+    },
+    "amount": {
+      "N": "199.49"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "199.49"
+    },
+    "city": {
+      "S": "Seoul"
+    },
+    "country": {
+      "S": "South Korea"
+    },
+    "lat": {
+      "N": "37.57"
+    },
+    "lon": {
+      "N": "126.98"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "65"
+    }
+  },
+  "EV100035": {
+    "id": {
+      "S": "EV100035"
+    },
+    "ts": {
+      "N": "1759103742"
+    },
+    "type": {
+      "S": "CARD_AUTH"
+    },
+    "channel": {
+      "S": "WEB"
+    },
+    "account": {
+      "S": "********9480"
+    },
+    "amount": {
+      "N": "1134.01"
+    },
+    "currency": {
+      "S": "GBP"
+    },
+    "value_usd": {
+      "N": "1440.19"
+    },
+    "city": {
+      "S": "Osaka"
+    },
+    "country": {
+      "S": "Japan"
+    },
+    "lat": {
+      "N": "34.69"
+    },
+    "lon": {
+      "N": "135.5"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "120"
+    }
+  },
+  "EV100034": {
+    "id": {
+      "S": "EV100034"
+    },
+    "ts": {
+      "N": "1759103739"
+    },
+    "type": {
+      "S": "LOAN_APP"
+    },
+    "channel": {
+      "S": "ACH"
+    },
+    "account": {
+      "S": "********7694"
+    },
+    "amount": {
+      "N": "127.84"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "127.84"
+    },
+    "city": {
+      "S": "Tokyo"
+    },
+    "country": {
+      "S": "Japan"
+    },
+    "lat": {
+      "N": "35.68"
+    },
+    "lon": {
+      "N": "139.69"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "64"
+    }
+  },
+  "EV100033": {
+    "id": {
+      "S": "EV100033"
+    },
+    "ts": {
+      "N": "1759103736"
+    },
+    "type": {
+      "S": "KYC_CHECK"
+    },
+    "channel": {
+      "S": "ATM"
+    },
+    "account": {
+      "S": "********8651"
+    },
+    "amount": {
+      "N": "276.82"
+    },
+    "currency": {
+      "S": "GBP"
+    },
+    "value_usd": {
+      "N": "351.56"
+    },
+    "city": {
+      "S": "Beijing"
+    },
+    "country": {
+      "S": "China"
+    },
+    "lat": {
+      "N": "39.9"
+    },
+    "lon": {
+      "N": "116.41"
+    },
+    "status": {
+      "S": "REVIEW"
+    },
+    "latency_ms": {
+      "N": "189"
+    }
+  },
+  "EV100032": {
+    "id": {
+      "S": "EV100032"
+    },
+    "ts": {
+      "N": "1759103733"
+    },
+    "type": {
+      "S": "FX_TRADE"
+    },
+    "channel": {
+      "S": "WEB"
+    },
+    "account": {
+      "S": "********9049"
+    },
+    "amount": {
+      "N": "290501"
+    },
+    "currency": {
+      "S": "JPY"
+    },
+    "value_usd": {
+      "N": "1946.36"
+    },
+    "city": {
+      "S": "Shanghai"
+    },
+    "country": {
+      "S": "China"
+    },
+    "lat": {
+      "N": "31.23"
+    },
+    "lon": {
+      "N": "121.47"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "157"
+    }
+  },
+  "EV100031": {
+    "id": {
+      "S": "EV100031"
+    },
+    "ts": {
+      "N": "1759103730"
+    },
+    "type": {
+      "S": "PAYMENT"
+    },
+    "channel": {
+      "S": "SWIFT"
+    },
+    "account": {
+      "S": "********3309"
+    },
+    "amount": {
+      "N": "122.39"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "122.39"
+    },
+    "city": {
+      "S": "Hong Kong"
+    },
+    "country": {
+      "S": "Hong Kong"
+    },
+    "lat": {
+      "N": "22.32"
+    },
+    "lon": {
+      "N": "114.17"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "85"
+    }
+  },
+  "EV100030": {
+    "id": {
+      "S": "EV100030"
+    },
+    "ts": {
+      "N": "1759103727"
+    },
+    "type": {
+      "S": "KYC_CHECK"
+    },
+    "channel": {
+      "S": "ATM"
+    },
+    "account": {
+      "S": "********0465"
+    },
+    "amount": {
+      "N": "342.33"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "342.33"
+    },
+    "city": {
+      "S": "Singapore"
+    },
+    "country": {
+      "S": "Singapore"
+    },
+    "lat": {
+      "N": "1.35"
+    },
+    "lon": {
+      "N": "103.82"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "68"
+    }
+  },
+  "EV100029": {
+    "id": {
+      "S": "EV100029"
+    },
+    "ts": {
+      "N": "1759103724"
+    },
+    "type": {
+      "S": "FX_TRADE"
+    },
+    "channel": {
+      "S": "WEB"
+    },
+    "account": {
+      "S": "********6706"
+    },
+    "amount": {
+      "N": "3008.78"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "3008.78"
+    },
+    "city": {
+      "S": "Bengaluru"
+    },
+    "country": {
+      "S": "India"
+    },
+    "lat": {
+      "N": "12.97"
+    },
+    "lon": {
+      "N": "77.59"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "131"
+    }
+  },
+  "EV100028": {
+    "id": {
+      "S": "EV100028"
+    },
+    "ts": {
+      "N": "1759103721"
+    },
+    "type": {
+      "S": "FX_TRADE"
+    },
+    "channel": {
+      "S": "MOBILE"
+    },
+    "account": {
+      "S": "********6036"
+    },
+    "amount": {
+      "N": "4178.66"
+    },
+    "currency": {
+      "S": "EUR"
+    },
+    "value_usd": {
+      "N": "4512.95"
+    },
+    "city": {
+      "S": "Mumbai"
+    },
+    "country": {
+      "S": "India"
+    },
+    "lat": {
+      "N": "19.08"
+    },
+    "lon": {
+      "N": "72.88"
+    },
+    "status": {
+      "S": "PENDING"
+    },
+    "latency_ms": {
+      "N": "48"
+    }
+  },
+  "EV100027": {
+    "id": {
+      "S": "EV100027"
+    },
+    "ts": {
+      "N": "1759103718"
+    },
+    "type": {
+      "S": "LOAN_APP"
+    },
+    "channel": {
+      "S": "MOBILE"
+    },
+    "account": {
+      "S": "********4714"
+    },
+    "amount": {
+      "N": "180.2"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "180.2"
+    },
+    "city": {
+      "S": "Abu Dhabi"
+    },
+    "country": {
+      "S": "United Arab Emirates"
+    },
+    "lat": {
+      "N": "24.45"
+    },
+    "lon": {
+      "N": "54.38"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "50"
+    }
+  },
+  "EV100026": {
+    "id": {
+      "S": "EV100026"
+    },
+    "ts": {
+      "N": "1759103715"
+    },
+    "type": {
+      "S": "LOAN_APP"
+    },
+    "channel": {
+      "S": "BRANCH"
+    },
+    "account": {
+      "S": "********7889"
+    },
+    "amount": {
+      "N": "1057.64"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "1057.64"
+    },
+    "city": {
+      "S": "Dubai"
+    },
+    "country": {
+      "S": "United Arab Emirates"
+    },
+    "lat": {
+      "N": "25.2"
+    },
+    "lon": {
+      "N": "55.27"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "84"
+    }
+  },
+  "EV100025": {
+    "id": {
+      "S": "EV100025"
+    },
+    "ts": {
+      "N": "1759103712"
+    },
+    "type": {
+      "S": "TRANSFER"
+    },
+    "channel": {
+      "S": "WEB"
+    },
+    "account": {
+      "S": "********7693"
+    },
+    "amount": {
+      "N": "153788"
+    },
+    "currency": {
+      "S": "JPY"
+    },
+    "value_usd": {
+      "N": "1030.38"
+    },
+    "city": {
+      "S": "Rome"
+    },
+    "country": {
+      "S": "Italy"
+    },
+    "lat": {
+      "N": "41.9"
+    },
+    "lon": {
+      "N": "12.5"
+    },
+    "status": {
+      "S": "REVIEW"
+    },
+    "latency_ms": {
+      "N": "129"
+    }
+  },
+  "EV100024": {
+    "id": {
+      "S": "EV100024"
+    },
+    "ts": {
+      "N": "1759103709"
+    },
+    "type": {
+      "S": "FX_TRADE"
+    },
+    "channel": {
+      "S": "SWIFT"
+    },
+    "account": {
+      "S": "********3872"
+    },
+    "amount": {
+      "N": "7728"
+    },
+    "currency": {
+      "S": "JPY"
+    },
+    "value_usd": {
+      "N": "51.78"
+    },
+    "city": {
+      "S": "Milan"
+    },
+    "country": {
+      "S": "Italy"
+    },
+    "lat": {
+      "N": "45.46"
+    },
+    "lon": {
+      "N": "9.19"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "60"
+    }
+  },
+  "EV100023": {
+    "id": {
+      "S": "EV100023"
+    },
+    "ts": {
+      "N": "1759103706"
+    },
+    "type": {
+      "S": "LOGIN"
+    },
+    "channel": {
+      "S": "BRANCH"
+    },
+    "account": {
+      "S": "********8236"
+    },
+    "amount": {
+      "N": "749241"
+    },
+    "currency": {
+      "S": "JPY"
+    },
+    "value_usd": {
+      "N": "5019.91"
+    },
+    "city": {
+      "S": "Barcelona"
+    },
+    "country": {
+      "S": "Spain"
+    },
+    "lat": {
+      "N": "41.39"
+    },
+    "lon": {
+      "N": "2.17"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "147"
+    }
+  },
+  "EV100022": {
+    "id": {
+      "S": "EV100022"
+    },
+    "ts": {
+      "N": "1759103703"
+    },
+    "type": {
+      "S": "KYC_CHECK"
+    },
+    "channel": {
+      "S": "MOBILE"
+    },
+    "account": {
+      "S": "********0608"
+    },
+    "amount": {
+      "N": "819.75"
+    },
+    "currency": {
+      "S": "GBP"
+    },
+    "value_usd": {
+      "N": "1041.08"
+    },
+    "city": {
+      "S": "Madrid"
+    },
+    "country": {
+      "S": "Spain"
+    },
+    "lat": {
+      "N": "40.42"
+    },
+    "lon": {
+      "N": "-3.7"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "131"
+    }
+  },
+  "EV100021": {
+    "id": {
+      "S": "EV100021"
+    },
+    "ts": {
+      "N": "1759103700"
+    },
+    "type": {
+      "S": "PAYMENT"
+    },
+    "channel": {
+      "S": "SWIFT"
+    },
+    "account": {
+      "S": "********4586"
+    },
+    "amount": {
+      "N": "274582"
+    },
+    "currency": {
+      "S": "JPY"
+    },
+    "value_usd": {
+      "N": "1839.7"
+    },
+    "city": {
+      "S": "Rotterdam"
+    },
+    "country": {
+      "S": "Netherlands"
+    },
+    "lat": {
+      "N": "51.92"
+    },
+    "lon": {
+      "N": "4.48"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "42"
+    }
+  },
+  "EV100020": {
+    "id": {
+      "S": "EV100020"
+    },
+    "ts": {
+      "N": "1759103697"
+    },
+    "type": {
+      "S": "CARD_AUTH"
+    },
+    "channel": {
+      "S": "BRANCH"
+    },
+    "account": {
+      "S": "********4216"
+    },
+    "amount": {
+      "N": "1221.24"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "1221.24"
+    },
+    "city": {
+      "S": "Amsterdam"
+    },
+    "country": {
+      "S": "Netherlands"
+    },
+    "lat": {
+      "N": "52.37"
+    },
+    "lon": {
+      "N": "4.9"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "33"
+    }
+  },
+  "EV100019": {
+    "id": {
+      "S": "EV100019"
+    },
+    "ts": {
+      "N": "1759103694"
+    },
+    "type": {
+      "S": "CARD_AUTH"
+    },
+    "channel": {
+      "S": "SWIFT"
+    },
+    "account": {
+      "S": "********5053"
+    },
+    "amount": {
+      "N": "30951"
+    },
+    "currency": {
+      "S": "JPY"
+    },
+    "value_usd": {
+      "N": "207.37"
+    },
+    "city": {
+      "S": "Geneva"
+    },
+    "country": {
+      "S": "Switzerland"
+    },
+    "lat": {
+      "N": "46.2"
+    },
+    "lon": {
+      "N": "6.14"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "159"
+    }
+  },
+  "EV100018": {
+    "id": {
+      "S": "EV100018"
+    },
+    "ts": {
+      "N": "1759103691"
+    },
+    "type": {
+      "S": "LOAN_APP"
+    },
+    "channel": {
+      "S": "MOBILE"
+    },
+    "account": {
+      "S": "********0052"
+    },
+    "amount": {
+      "N": "37647"
+    },
+    "currency": {
+      "S": "JPY"
+    },
+    "value_usd": {
+      "N": "252.23"
+    },
+    "city": {
+      "S": "Zurich"
+    },
+    "country": {
+      "S": "Switzerland"
+    },
+    "lat": {
+      "N": "47.38"
+    },
+    "lon": {
+      "N": "8.54"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "224"
+    }
+  },
+  "EV100017": {
+    "id": {
+      "S": "EV100017"
+    },
+    "ts": {
+      "N": "1759103688"
+    },
+    "type": {
+      "S": "LOAN_APP"
+    },
+    "channel": {
+      "S": "WEB"
+    },
+    "account": {
+      "S": "********2411"
+    },
+    "amount": {
+      "N": "72136"
+    },
+    "currency": {
+      "S": "JPY"
+    },
+    "value_usd": {
+      "N": "483.31"
+    },
+    "city": {
+      "S": "Lyon"
+    },
+    "country": {
+      "S": "France"
+    },
+    "lat": {
+      "N": "45.76"
+    },
+    "lon": {
+      "N": "4.84"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "39"
+    }
+  },
+  "EV100016": {
+    "id": {
+      "S": "EV100016"
+    },
+    "ts": {
+      "N": "1759103685"
+    },
+    "type": {
+      "S": "PAYMENT"
+    },
+    "channel": {
+      "S": "WEB"
+    },
+    "account": {
+      "S": "********1838"
+    },
+    "amount": {
+      "N": "103.96"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "103.96"
+    },
+    "city": {
+      "S": "Paris"
+    },
+    "country": {
+      "S": "France"
+    },
+    "lat": {
+      "N": "48.86"
+    },
+    "lon": {
+      "N": "2.35"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "60"
+    }
+  },
+  "EV100015": {
+    "id": {
+      "S": "EV100015"
+    },
+    "ts": {
+      "N": "1759103682"
+    },
+    "type": {
+      "S": "TRANSFER"
+    },
+    "channel": {
+      "S": "ATM"
+    },
+    "account": {
+      "S": "********9985"
+    },
+    "amount": {
+      "N": "33.03"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "33.03"
+    },
+    "city": {
+      "S": "Munich"
+    },
+    "country": {
+      "S": "Germany"
+    },
+    "lat": {
+      "N": "48.14"
+    },
+    "lon": {
+      "N": "11.58"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "30"
+    }
+  },
+  "EV100014": {
+    "id": {
+      "S": "EV100014"
+    },
+    "ts": {
+      "N": "1759103679"
+    },
+    "type": {
+      "S": "FX_TRADE"
+    },
+    "channel": {
+      "S": "CARDS"
+    },
+    "account": {
+      "S": "********7882"
+    },
+    "amount": {
+      "N": "62.6"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "62.6"
+    },
+    "city": {
+      "S": "Frankfurt"
+    },
+    "country": {
+      "S": "Germany"
+    },
+    "lat": {
+      "N": "50.11"
+    },
+    "lon": {
+      "N": "8.68"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "16"
+    }
+  },
+  "EV100013": {
+    "id": {
+      "S": "EV100013"
+    },
+    "ts": {
+      "N": "1759103676"
+    },
+    "type": {
+      "S": "CARD_AUTH"
+    },
+    "channel": {
+      "S": "SWIFT"
+    },
+    "account": {
+      "S": "********6474"
+    },
+    "amount": {
+      "N": "2326.28"
+    },
+    "currency": {
+      "S": "EUR"
+    },
+    "value_usd": {
+      "N": "2512.38"
+    },
+    "city": {
+      "S": "Manchester"
+    },
+    "country": {
+      "S": "United Kingdom"
+    },
+    "lat": {
+      "N": "53.48"
+    },
+    "lon": {
+      "N": "-2.24"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "54"
+    }
+  },
+  "EV100012": {
+    "id": {
+      "S": "EV100012"
+    },
+    "ts": {
+      "N": "1759103673"
+    },
+    "type": {
+      "S": "LOAN_APP"
+    },
+    "channel": {
+      "S": "CARDS"
+    },
+    "account": {
+      "S": "********6247"
+    },
+    "amount": {
+      "N": "25.12"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "25.12"
+    },
+    "city": {
+      "S": "London"
+    },
+    "country": {
+      "S": "United Kingdom"
+    },
+    "lat": {
+      "N": "51.51"
+    },
+    "lon": {
+      "N": "-0.13"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "138"
+    }
+  },
+  "EV100011": {
+    "id": {
+      "S": "EV100011"
+    },
+    "ts": {
+      "N": "1759103670"
+    },
+    "type": {
+      "S": "KYC_CHECK"
+    },
+    "channel": {
+      "S": "CARDS"
+    },
+    "account": {
+      "S": "********6311"
+    },
+    "amount": {
+      "N": "45404"
+    },
+    "currency": {
+      "S": "JPY"
+    },
+    "value_usd": {
+      "N": "304.21"
+    },
+    "city": {
+      "S": "C\u00f3rdoba"
+    },
+    "country": {
+      "S": "Argentina"
+    },
+    "lat": {
+      "N": "-31.42"
+    },
+    "lon": {
+      "N": "-64.18"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "45"
+    }
+  },
+  "EV100010": {
+    "id": {
+      "S": "EV100010"
+    },
+    "ts": {
+      "N": "1759103667"
+    },
+    "type": {
+      "S": "FX_TRADE"
+    },
+    "channel": {
+      "S": "ACH"
+    },
+    "account": {
+      "S": "********5098"
+    },
+    "amount": {
+      "N": "499.67"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "499.67"
+    },
+    "city": {
+      "S": "Buenos Aires"
+    },
+    "country": {
+      "S": "Argentina"
+    },
+    "lat": {
+      "N": "-34.6"
+    },
+    "lon": {
+      "N": "-58.38"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "39"
+    }
+  },
+  "EV100009": {
+    "id": {
+      "S": "EV100009"
+    },
+    "ts": {
+      "N": "1759103664"
+    },
+    "type": {
+      "S": "TRANSFER"
+    },
+    "channel": {
+      "S": "SWIFT"
+    },
+    "account": {
+      "S": "********7824"
+    },
+    "amount": {
+      "N": "1901.9"
+    },
+    "currency": {
+      "S": "GBP"
+    },
+    "value_usd": {
+      "N": "2415.41"
+    },
+    "city": {
+      "S": "Rio de Janeiro"
+    },
+    "country": {
+      "S": "Brazil"
+    },
+    "lat": {
+      "N": "-22.91"
+    },
+    "lon": {
+      "N": "-43.17"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "129"
+    }
+  },
+  "EV100008": {
+    "id": {
+      "S": "EV100008"
+    },
+    "ts": {
+      "N": "1759103661"
+    },
+    "type": {
+      "S": "LOGIN"
+    },
+    "channel": {
+      "S": "CARDS"
+    },
+    "account": {
+      "S": "********8809"
+    },
+    "amount": {
+      "N": "391.19"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "391.19"
+    },
+    "city": {
+      "S": "S\u00e3o Paulo"
+    },
+    "country": {
+      "S": "Brazil"
+    },
+    "lat": {
+      "N": "-23.55"
+    },
+    "lon": {
+      "N": "-46.63"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "63"
+    }
+  },
+  "EV100007": {
+    "id": {
+      "S": "EV100007"
+    },
+    "ts": {
+      "N": "1759103658"
+    },
+    "type": {
+      "S": "FX_TRADE"
+    },
+    "channel": {
+      "S": "ATM"
+    },
+    "account": {
+      "S": "********5146"
+    },
+    "amount": {
+      "N": "36.36"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "36.36"
+    },
+    "city": {
+      "S": "Monterrey"
+    },
+    "country": {
+      "S": "Mexico"
+    },
+    "lat": {
+      "N": "25.67"
+    },
+    "lon": {
+      "N": "-100.31"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "155"
+    }
+  },
+  "EV100006": {
+    "id": {
+      "S": "EV100006"
+    },
+    "ts": {
+      "N": "1759103655"
+    },
+    "type": {
+      "S": "FX_TRADE"
+    },
+    "channel": {
+      "S": "BRANCH"
+    },
+    "account": {
+      "S": "********8710"
+    },
+    "amount": {
+      "N": "149.52"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "149.52"
+    },
+    "city": {
+      "S": "Mexico City"
+    },
+    "country": {
+      "S": "Mexico"
+    },
+    "lat": {
+      "N": "19.43"
+    },
+    "lon": {
+      "N": "-99.13"
+    },
+    "status": {
+      "S": "FAILED"
+    },
+    "latency_ms": {
+      "N": "43"
+    }
+  },
+  "EV100005": {
+    "id": {
+      "S": "EV100005"
+    },
+    "ts": {
+      "N": "1759103652"
+    },
+    "type": {
+      "S": "TRANSFER"
+    },
+    "channel": {
+      "S": "ATM"
+    },
+    "account": {
+      "S": "********9537"
+    },
+    "amount": {
+      "N": "5361"
+    },
+    "currency": {
+      "S": "EUR"
+    },
+    "value_usd": {
+      "N": "5789.88"
+    },
+    "city": {
+      "S": "Vancouver"
+    },
+    "country": {
+      "S": "Canada"
+    },
+    "lat": {
+      "N": "49.28"
+    },
+    "lon": {
+      "N": "-123.12"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "49"
+    }
+  },
+  "EV100004": {
+    "id": {
+      "S": "EV100004"
+    },
+    "ts": {
+      "N": "1759103649"
+    },
+    "type": {
+      "S": "FX_TRADE"
+    },
+    "channel": {
+      "S": "ACH"
+    },
+    "account": {
+      "S": "********9283"
+    },
+    "amount": {
+      "N": "356.32"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "356.32"
+    },
+    "city": {
+      "S": "Toronto"
+    },
+    "country": {
+      "S": "Canada"
+    },
+    "lat": {
+      "N": "43.65"
+    },
+    "lon": {
+      "N": "-79.38"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "58"
+    }
+  },
+  "EV100003": {
+    "id": {
+      "S": "EV100003"
+    },
+    "ts": {
+      "N": "1759103646"
+    },
+    "type": {
+      "S": "TRANSFER"
+    },
+    "channel": {
+      "S": "CARDS"
+    },
+    "account": {
+      "S": "********4959"
+    },
+    "amount": {
+      "N": "675.14"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "675.14"
+    },
+    "city": {
+      "S": "San Francisco"
+    },
+    "country": {
+      "S": "United States"
+    },
+    "lat": {
+      "N": "37.77"
+    },
+    "lon": {
+      "N": "-122.42"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "165"
+    }
+  },
+  "EV100002": {
+    "id": {
+      "S": "EV100002"
+    },
+    "ts": {
+      "N": "1759103643"
+    },
+    "type": {
+      "S": "PAYMENT"
+    },
+    "channel": {
+      "S": "BRANCH"
+    },
+    "account": {
+      "S": "********6542"
+    },
+    "amount": {
+      "N": "2111.72"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "2111.72"
+    },
+    "city": {
+      "S": "Chicago"
+    },
+    "country": {
+      "S": "United States"
+    },
+    "lat": {
+      "N": "41.88"
+    },
+    "lon": {
+      "N": "-87.63"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "72"
+    }
+  },
+  "EV100001": {
+    "id": {
+      "S": "EV100001"
+    },
+    "ts": {
+      "N": "1759103640"
+    },
+    "type": {
+      "S": "LOAN_APP"
+    },
+    "channel": {
+      "S": "MOBILE"
+    },
+    "account": {
+      "S": "********1960"
+    },
+    "amount": {
+      "N": "113.1"
+    },
+    "currency": {
+      "S": "USD"
+    },
+    "value_usd": {
+      "N": "113.1"
+    },
+    "city": {
+      "S": "New York"
+    },
+    "country": {
+      "S": "United States"
+    },
+    "lat": {
+      "N": "40.71"
+    },
+    "lon": {
+      "N": "-74.01"
+    },
+    "status": {
+      "S": "OK"
+    },
+    "latency_ms": {
+      "N": "37"
+    }
+  }
+}

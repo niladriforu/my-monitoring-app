@@ -17,6 +17,7 @@ Users ─► CloudFront (+ security headers, TLS1.2+) ─► S3 (private, KMS)  
                                        ├─► RDS PostgreSQL Multi-AZ (private, KMS, IAM auth)
                                        └─► Secrets Manager / KMS
 Event sources ─► SQS / Kinesis / MSK ─► ingest worker (Fargate) ─► RDS
+Just to test out the release.
 ```
 
 ### Why these choices
